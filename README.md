@@ -1,2 +1,2 @@
-# repo
+# Release
 Planet Coaster - Translation
